@@ -1,0 +1,23 @@
+{
+  "name": "l0-r2-t000180",
+  "version": "1.0.0",
+  "description": "K2-L0-R2 中英文 JSON 合并工具",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.iblack7.com/G000180/L0-R2-T000180.git"
+  },
+  "keywords": [
+    "json",
+    "merge"
+  ],
+  "author": "刘博翔",
+  "license": "ISC"
+}
